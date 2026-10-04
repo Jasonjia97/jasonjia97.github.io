@@ -9,9 +9,7 @@ permalink: /
 
 # Hi, I’m Jason Jia.
 
-I’m pursuing an MBA at UC Berkeley Haas for 2026–2027. My experience spans consulting, commercial insurance, brokerage operations, and entrepreneurship, with work in market research, forecasting, pricing, and growth strategy.
-
-Before Haas, I worked as a Summer Consultant at L.E.K. Consulting and held commercial account management and operations roles at Prolink Elite Financial & Insurance Services. I also founded Wellmax Insurance Services, a boutique brokerage focused on the TMT sector.
+I’m an MBA candidate at UC Berkeley Haas (2026–2027) with experience in consulting, insurance operations, and founding a boutique brokerage. My work spans market research, due diligence, forecasting, and commercial strategy.
 
 <div class="action-links">
   <a class="text-link" href="{{ '/work-experience/' | relative_url }}">Explore my experience <span aria-hidden="true">→</span></a>
