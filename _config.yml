@@ -1,0 +1,34 @@
+title: Jason Jia
+name: Jason Jia
+description: MBA candidate at UC Berkeley Haas with experience in consulting, insurance operations, and entrepreneurship.
+url: "https://jasonjia97.github.io"
+baseurl: ""
+timezone: America/Los_Angeles
+permalink: pretty
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Work Experience
+    url: /work-experience/
+  - title: Contact
+    url: /contact/
+
+exclude:
+  - PLAN.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .agents
+  - .cache
+  - .local
+  - .replit
+  - attached_assets
+  - vendor
